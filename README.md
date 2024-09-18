@@ -32,6 +32,9 @@
 > Uma conta no GitHub (opcional, mas recomendado).
 >
 >  📌 Instale packages json (Instale dependencias)
+>
+> 
+> Faça um Fork do repositório, assim nada será alterado do repositório original.
 
 
 **Vamos clonar este repositório passo a passo.**
