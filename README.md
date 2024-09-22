@@ -29,8 +29,10 @@ O DigitalCard é uma aplicação web que permite aos usuários criar e gerenciar
 ## Como Clonar este Repositório
 
 
+
+### Pré-requisitos:
+
 > [!IMPORTANT]
-> ### Pré-requisitos:
 >  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20"/> Ter o Git instalado no seu computador. Se ainda não tiver, baixe e instale o Git.
 >
 > 
@@ -44,30 +46,27 @@ O DigitalCard é uma aplicação web que permite aos usuários criar e gerenciar
 >
 >
 > 
->
->
->
->  ### Vamos clonar este repositório passo a passo. 
->
-> 
->
->_Obtenha a URL do repositório:_
->
->` https://github.com/oblipix/DigitalCard.git `
->
->
->
->
->navegue até a pasta onde deseja clonar.
->
->
->**Clone o repositório:**
->
->`git clone https://github.com/oblipix/DigitalCard.git`
->
->
-><sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
->
+  
+  
+  ### Vamos clonar este repositório passo a passo. 
+
+  
+_Obtenha a URL do repositório:_
+
+` https://github.com/oblipix/DigitalCard.git `
+
+
+
+
+navegue até a pasta onde deseja clonar.
+
+**Clone o repositório:**
+
+`git clone https://github.com/oblipix/DigitalCard.git`
+
+
+<sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
+
 
 
 
