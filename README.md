@@ -10,51 +10,67 @@
 
 
 
+## DigitalCard
+
+**Descrição**
+
+O DigitalCard é uma aplicação web que permite aos usuários criar e gerenciar cartões de visita digitais. Com uma interface intuitiva, os usuários podem personalizar seus cartões com informações de contato, links e designs exclusivos, facilitando a troca de informações profissionais de forma moderna e eficiente.
+
+**Funcionalidades**
+
+◾ Criação de Cartões: Permite que os usuários criem cartões de visita digitais com suas informações pessoais e profissionais.
+
+◾Personalização: Opções para personalizar o design do cartão, incluindo cores, fontes e layouts.
+
+◾Compartilhamento: Os usuários podem compartilhar seus cartões facilmente por meio de links ou QR codes.
 
 
 
+## Como Clonar este Repositório
 
 
-
-
-
-
-
-# Como Clonar este Repositório
-
->
-### Pré-requisitos:
-
-
-> Ter o Git instalado no seu computador.
-> Se ainda não tiver, baixe e instale o Git.
->
-> Uma conta no GitHub (opcional, mas recomendado).
->
->  📌 Instale packages json (Instale dependencias)
+> [!IMPORTANT]
+> ### Pré-requisitos:
+>  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20"/> Ter o Git instalado no seu computador. Se ainda não tiver, baixe e instale o Git.
 >
 > 
-> ⚠️ Faça um Fork do repositório, assim nada será alterado do repositório original.
+>
+>
+><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" width="20"/> Uma conta no GitHub (opcional, mas recomendado).
+>
+> 📌 Instale packages json (Instale dependencias)
+>
+>  <img src="https://img.icons8.com/ios/50/000000/code-fork.png" alt="Fork Icon" width="20"/>  Faça um Fork do repositório, assim nada será alterado do repositório original.
+>
+>
+> 
+>
+>
+>
+>  ### Vamos clonar este repositório passo a passo. 
+>
+> 
+>
+>_Obtenha a URL do repositório:_
+>
+>` https://github.com/oblipix/DigitalCard.git `
+>
+>
+>
+>
+>navegue até a pasta onde deseja clonar.
+>
+>
+>**Clone o repositório:**
+>
+>`git clone https://github.com/oblipix/DigitalCard.git`
+>
+>
+><sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
+>
 
 
-**Vamos clonar este repositório passo a passo.**
 
-_Obtenha a URL do repositório:_
-
-`URL do repositório: https://github.com/oblipix/DigitalCard.git`
-
-
-
-
-navegue até a pasta onde deseja clonar.
-
-
-**Clone o repositório:**
-
-`git clone https://github.com/oblipix/DigitalCard.git`
-
-
-<sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
 
 
 
