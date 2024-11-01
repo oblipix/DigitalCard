@@ -40,7 +40,7 @@ O DigitalCard é uma aplicação web que permite aos usuários criar e gerenciar
 >
 ><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" width="20"/> Uma conta no GitHub (opcional, mas recomendado).
 >
-> <img src="https://img.icons8.com/ios-filled/50/000000/package.png" alt="Package Icon" width="20"/> Instale packages json (Instale dependencias: ` npm install `)
+> <img src="https://img.icons8.com/ios-filled/50/000000/package.png" alt="Package Icon" width="20"/> Instale dependencias: ` npm install `
 >
 >  <img src="https://img.icons8.com/ios/50/000000/code-fork.png" alt="Fork Icon" width="20"/>  Faça um Fork do repositório, assim nada será alterado do repositório original.
 >
