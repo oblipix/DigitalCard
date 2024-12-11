@@ -3,6 +3,11 @@
 
 
 
+## 📱 DigitalCard
+
+**Descrição**
+
+O DigitalCard é uma aplicação web que permite aos usuários criar e gerenciar cartões de visita digitais. Com uma interface intuitiva, os usuários podem personalizar seus cartões com informações de contato, links e designs exclusivos, facilitando a troca de informações profissionais de forma moderna e eficiente.
 
 
 
@@ -10,13 +15,12 @@
 
 
 
-## DigitalCard
 
-**Descrição**
+___
 
-O DigitalCard é uma aplicação web que permite aos usuários criar e gerenciar cartões de visita digitais. Com uma interface intuitiva, os usuários podem personalizar seus cartões com informações de contato, links e designs exclusivos, facilitando a troca de informações profissionais de forma moderna e eficiente.
 
-**Funcionalidades**
+
+## 📚 Funcionalidades
 
 ◾ Criação de Cartões: Permite que os usuários criem cartões de visita digitais com suas informações pessoais e profissionais.
 
@@ -25,8 +29,10 @@ O DigitalCard é uma aplicação web que permite aos usuários criar e gerenciar
 ◾Compartilhamento: Os usuários podem compartilhar seus cartões facilmente por meio de links ou QR codes.
 
 
+___
 
-## Como Clonar este Repositório
+
+## ⚙️ Como Clonar este Repositório
 
 
 
@@ -48,17 +54,6 @@ O DigitalCard é uma aplicação web que permite aos usuários criar e gerenciar
 > 
   
   
-  ### Vamos clonar este repositório passo a passo. 
-
-  
-_Obtenha a URL do repositório:_
-
-` https://github.com/oblipix/DigitalCard.git `
-
-
-
-
-navegue até a pasta onde deseja clonar.
 
 **Clone o repositório:**
 
@@ -71,7 +66,11 @@ git clone https://github.com/oblipix/DigitalCard.git
 
 
 
+___
 
+
+## 📜 Licença
+Esse projeto está licenciado sob a MIT License.
 
 
 
